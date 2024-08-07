@@ -1,7 +1,7 @@
 # Misc Tools
 
 Welcome to the **Misc Tools** repository! This collection is designed to make your life easier by providing a variety of tools, some of which I've written myself, while others have been curated over the years. Whether you're a developer, system administrator, or just someone who enjoys working at the command line, you'll find something useful here.
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
