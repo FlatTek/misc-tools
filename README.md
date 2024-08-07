@@ -70,7 +70,7 @@ Please ensure your contributions adhere to the repository's coding standards and
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Since this is a collection of software, the software without license info is licensed under the MIT License, otherwise any embedded licenses take precedence.
 
 ## Acknowledgements
 
