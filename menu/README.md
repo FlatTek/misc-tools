@@ -12,7 +12,7 @@ The menu system uses NANO as the editor, so make sure you have it installed on y
 
 ## Installation
 
-To get started with the menu system, simply place the scripts in a directory that is in your PATH... preferrably ~/bin .
+To get started with the menu system, simply place the script in a directory that is in your PATH... preferrably ~/bin .
 
 The first time you run the script it will make a directory in your home directory called `.menu` and create a sample menu file for you to get started.
 
